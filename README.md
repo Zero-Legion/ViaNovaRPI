@@ -1,1 +1,2 @@
 # ViaNovaRPI
+THE MAIN & IMPORTANT FILE IS detectionAZ.py
